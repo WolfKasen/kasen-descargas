@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "downloadUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.0.0/KasenSoporteDigital-1.0.0.apk",
+  "changelog": "Versión inicial de producción con firmado digital y conexión a Supabase.",
+  "mandatory": false
+}
