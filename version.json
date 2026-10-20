@@ -4,6 +4,6 @@
   "minVersionCode": 1,
   "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.2.2/KasenSoporteDigital-1.2.2.apk",
   "notas": "Mejoras y correcciones.",
-  "sha256": "(se completa con: npm run apk:hash)",
+  "sha256": "e88086210a4ec7aaeb1eeac4303c03f9c5ce34ef1eac9ec48426fdd83392cf8c",
   "fecha": "2026-10-20"
 }
