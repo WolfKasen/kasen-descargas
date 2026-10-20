@@ -1,7 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "downloadUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.0.0/KasenSoporteDigital-1.0.0.apk",
-  "changelog": "Versión inicial de producción con firmado digital y conexión a Supabase.",
-  "mandatory": false
+  "versionCode": 2,
+  "versionName": "1.2.2",
+  "minVersionCode": 1,
+  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.2.2/KasenSoporteDigital-1.2.2.apk",
+  "notas": "Mejoras y correcciones.",
+  "sha256": "(se completa con: npm run apk:hash)",
+  "fecha": "2026-10-20"
 }
