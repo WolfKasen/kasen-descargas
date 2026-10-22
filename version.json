@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.2.2",
+  "versionCode": 3,
+  "versionName": "1.3.0",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.2.2/KasenSoporteDigital-1.2.2.apk",
-  "notas": "Mejoras y correcciones.",
-  "sha256": "e88086210a4ec7aaeb1eeac4303c03f9c5ce34ef1eac9ec48426fdd83392cf8c",
-  "fecha": "2026-10-20"
+  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.3.0/KasenSoporteDigital-1.3.0.apk",
+  "notas": "Pago anticipado, condición de pago, Ver más en QR, permisos y fotos",
+  "sha256": "288145c4e6d316c2b6ee8edd1a56d24aeae8c17d023a3e051ac796cdeac4d666",
+  "fecha": "2026-10-22"
 }
