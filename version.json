@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.4.0",
+  "versionCode": 5,
+  "versionName": "1.4.1",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.4.0/KasenSoporteDigital-1.4.0.apk",
-  "notas": "Aprobación por QR, tarjetas para redes y mejoras de cámara",
-  "sha256": "305a74177af8d1f6cb8ae0fa15c032367f043a8d35a1669a2cd365ae0f2aede9",
-  "fecha": "2026-10-23"
+  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.4.1/KasenSoporteDigital-1.4.1.apk",
+  "notas": "Arreglo del botón Cámara al adjuntar fotos",
+  "sha256": "118b5a00f1bdea798efc4f9467ba6e9a8b46fa360f87f6c6020ae2b34f4201f4",
+  "fecha": "2026-10-31"
 }
