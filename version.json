@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4.1",
+  "versionCode": 6,
+  "versionName": "2.0.0",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v1.4.1/KasenSoporteDigital-1.4.1.apk",
-  "notas": "Arreglo del botón Cámara al adjuntar fotos",
-  "sha256": "118b5a00f1bdea798efc4f9467ba6e9a8b46fa360f87f6c6020ae2b34f4201f4",
-  "fecha": "2026-10-31"
+  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v2.0.0/KasenSoporteDigital-2.0.0.apk",
+  "notas": "Versión 2.0: diseño nuevo, Inicio con indicadores, ficha del legajo, cobros, WhatsApp y búsqueda",
+  "sha256": "cc47178a0225f3e6699dee562f4a92cd3c2ad9d6a2ab5878a8197478039155e3",
+  "fecha": "2026-11-07"
 }
