@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "2.0.0",
+  "versionCode": 7,
+  "versionName": "2.1.0",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v2.0.0/KasenSoporteDigital-2.0.0.apk",
-  "notas": "Versión 2.0: diseño nuevo, Inicio con indicadores, ficha del legajo, cobros, WhatsApp y búsqueda",
-  "sha256": "cc47178a0225f3e6699dee562f4a92cd3c2ad9d6a2ab5878a8197478039155e3",
+  "apkUrl": "https://github.com/WolfKasen/kasen-descargas/releases/download/v2.1.0/KasenSoporteDigital-2.1.0.apk",
+  "notas": "Versión 2.1: el cliente ve el estado primero, cómo pagar (alias), garantía, comprobantes, avisos y contacto por WhatsApp",
+  "sha256": "6c4be3bd2c6a400f4c5953611b16e1c27ad8ca63e12f358ca19fbca3e03b4507",
   "fecha": "2026-11-07"
 }
